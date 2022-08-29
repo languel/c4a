@@ -2,7 +2,7 @@
 
 ## lecture notes and demos
 
-
+The notebook editor runs locally in your browser. Any locally saved notebooks will be lost if the chache is cleared.
 
 
 ###
